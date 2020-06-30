@@ -7,9 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-.introp {
-	color:#FFFF00;font-weight:bold;
-	}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1325,6 +1323,11 @@ input, select, textarea {
 				padding: 3rem 2rem;
 				max-height: 40rem;
 				overflow: hidden;
+			}
+
+			#header .content .inner p.introp {
+				color:#FFFF00;
+				font-weight:bold;
 			}
 
 			#header .content .inner > :last-child {
