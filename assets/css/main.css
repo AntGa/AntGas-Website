@@ -1325,11 +1325,6 @@ input, select, textarea {
 				overflow: hidden;
 			}
 
-			#header .content .inner p.introp {
-				color:#FFFF00;
-				font-weight:bold;
-			}
-
 			#header .content .inner > :last-child {
 				margin-bottom: 0;
 				}
