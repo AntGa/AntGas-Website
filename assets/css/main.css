@@ -1329,7 +1329,7 @@ input, select, textarea {
 				}
 
 			#header .content .inner h1 {
-				border: 1px solid #fff;
+				border: 2px solid #ffffff !important;
 				}
 
 			#header .content p {
